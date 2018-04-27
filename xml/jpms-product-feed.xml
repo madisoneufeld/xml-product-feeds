@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Feed>
+  <Categories>
+    <Category>
+      <CategoryUniqueID>41</CategoryUniqueID>
+      <Name>Awapuhi Wild Ginger</Name>
+      <CategoryUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>43</CategoryUniqueID>
+      <Name>MarulaOil</Name>
+      <CategoryUrl>https://www.paulmitchell.com/marulaoil/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>40</CategoryUniqueID>
+      <Name>MITCH</Name>
+      <CategoryUrl>https://www.paulmitchell.com/mitch/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>45</CategoryUniqueID>
+      <Name>Neon</Name>
+      <CategoryUrl>https://www.paulmitchell.com/neon/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>39</CategoryUniqueID>
+      <Name>Neuro</Name>
+      <CategoryUrl>https://www.paulmitchell.com/neuro/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>38</CategoryUniqueID>
+      <Name>Paul Mitchell</Name>
+      <CategoryUrl>https://www.paulmitchell.com/paul-mitchell/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>44</CategoryUniqueID>
+      <Name>Pro Tools</Name>
+      <CategoryUrl>https://www.paulmitchell.com/pro-tools/</CategoryUrl>
+    </Category>
+    <Category>
+      <CategoryUniqueID>42</CategoryUniqueID>
+      <Name>Tea Tree</Name>
+      <CategoryUrl>https://www.paulmitchell.com/tea-tree/</CategoryUrl>
+    </Category>
+  </Categories>
+  <Products>
+    <Product>
+      <Name>Express Ion Dry+ Dryer</Name>
+      <ProductUniqueID>112</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-dryers/express-ion-hair-dryer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/112/images/678/pro_tools_express_ion_dry__98262.1498603817.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>427 Paddle Brush</Name>
+      <ProductUniqueID>113</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/427-wide-paddle-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/113/images/646/pro_tools_427_paddle_brush__10437.1498601880.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>413 Sculpting Brush</Name>
+      <ProductUniqueID>115</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/413-detangling-sculpting-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/115/images/644/pro_tools_413_sculpting_brush_black__91266.1498601730.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>New Wave Get the Look Set</Name>
+      <ProductUniqueID>116</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/new-wave-get-the-look-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/116/images/997/NEON_CareKit_Front__74180.1498804970.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Cream Braid Cream</Name>
+      <ProductUniqueID>117</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-cream-braid-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/117/images/993/neon-sugar-cream-6.8__39076.1498801506.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sweet Finish Get the Look Set</Name>
+      <ProductUniqueID>118</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/sweet-finish-get-the-look-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/118/images/995/NEON_StyleKit_Front__10838.1498804906.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 3-in-1 Curling Iron</Name>
+      <ProductUniqueID>119</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-3-in-1-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/119/images/673/pro_tools_express_ion_curl_unclipped__70269.1498603520.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Smooth+ Flat Iron</Name>
+      <ProductUniqueID>120</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-smooth-plus-flat-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/120/images/677/pro_tools_express_ion_smooth__57753.1498603673.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>ProClips</Name>
+      <ProductUniqueID>121</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/styling-essentials/hair-pro-clips/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/121/images/651/pro_tools_pro_clip__68094.1498602093.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Confection Hairspray</Name>
+      <ProductUniqueID>122</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-confection-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/122/images/991/neon-sugar-confection-8.5__55837.1498800931.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Twist Tousle Cream</Name>
+      <ProductUniqueID>125</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-twist-tousle-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/125/images/988/neon-sugar-twist-6.8__61265.1498788656.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Rinse Conditioner</Name>
+      <ProductUniqueID>126</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-rinse-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/126/images/955/neon-sugar-rinse-10.14__24430.1498700863.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Cleanse Shampoo</Name>
+      <ProductUniqueID>127</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-cleanse-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/127/images/953/neon-sugar-cleanse-10.14__55696.1498699838.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sectioning Clips</Name>
+      <ProductUniqueID>128</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/styling-essentials/sectioning-hair-clips/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/128/images/650/pro_tools_sectioning_clips__50071.1498602070.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Control Freak Four-Piece Travel Set</Name>
+      <ProductUniqueID>130</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/control-freak-four-piece-travel-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/130/images/999/NEON_ControlTravelKit_Front__08602.1498805335.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Detangler Comb</Name>
+      <ProductUniqueID>131</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/antibacterial-detangler-comb/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/131/images/648/pro_tools_comb_detangler__31935.1498601983.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl 1.5" Curling Iron</Name>
+      <ProductUniqueID>132</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-1-5-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/132/images/659/pro_tools_express_gold_curl_15__63079.1498602830.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>407 Styling Brush</Name>
+      <ProductUniqueID>133</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/407-styling-rounded-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/133/images/645/pro_tools_407_styling_brush__12708.1498601828.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Spray Texturizer</Name>
+      <ProductUniqueID>134</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-spray-texturizer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/134/images/947/neon-sugar-spray-8.5__37958.1498698994.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Round</Name>
+      <ProductUniqueID>135</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/express-ion-round/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/135/images/643/pro_tool_express_ion_round_lg__37038.1498600933.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl .75" Curling Iron</Name>
+      <ProductUniqueID>136</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-75-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/136/images/653/pro_tools_express_gold_curl_75__98773.1498602528.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl 1" Curling Iron</Name>
+      <ProductUniqueID>138</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-1-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/138/images/655/pro_tools_express_gold_curl_1__16313.1498602601.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl 1.25" Curling Iron</Name>
+      <ProductUniqueID>139</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-1-25-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/139/images/658/pro_tools_express_gold_curl_125__93677.1498602788.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Style+ Styling Iron</Name>
+      <ProductUniqueID>140</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-style-plus-styling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/140/images/675/pro_tools_express_ion_style__84926.1498603643.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Text(ure) Me Four-Piece Travel Set</Name>
+      <ProductUniqueID>141</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/text-ure-me-Four-piece-travel-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/141/images/1000/NEON_TextureTravelKit_Back__29147.1498805845.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Teasing Brush</Name>
+      <ProductUniqueID>142</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-brushes-combs/hair-teasing-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/142/images/647/pro_tools_teasing_brush__88938.1498601955.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Style Perfecting Serum</Name>
+      <ProductUniqueID>148</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/styling-collection/rare-oil-style-perfecting-serum/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/148/images/1200/MarulaOil-Rare-Oil-Style-Perfecting-Serum-image-100ml__79224.1499659706.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Perfecting Hairspray</Name>
+      <ProductUniqueID>149</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/styling-collection/rare-oil-perfecting-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/149/images/1169/MarulaOil-Rare-Oil-Perfecting-Hairspray-image-300ml__63920.1499657465.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Intensive Hair Masque</Name>
+      <ProductUniqueID>150</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/replenishing-and-treatment-collection/rare-oil-intensive-hair-masque/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/150/images/1174/MarulaOil-Rare-Oil-Intensive-Hair-Masque-image-200ml__79467.1499657944.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Unclipped Small Styling Cone Curling Iron</Name>
+      <ProductUniqueID>153</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-unclipped-small-styling-cone-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/153/images/638/neuro_unclipped_styling_cone_sm__86787.1498600271.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Style Extending Primer</Name>
+      <ProductUniqueID>157</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/styling-collection/rare-oil-style-extending-primer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/157/images/1243/MO_Stylers_Primer_OnWht__29028.1502126728.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Detangling Brush</Name>
+      <ProductUniqueID>158</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/brush-collection/detangling-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/158/images/1202/MarulaOil-detangling-brush-image__13739.1499659859.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Replenishing Conditioner</Name>
+      <ProductUniqueID>160</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/replenishing-and-treatment-collection/rare-oil-replenishing-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/160/images/1178/MarulaOil-Rare-Oil-Replenishing-Conditioner-image-222ml__71293.1499658453.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Dry Mist</Name>
+      <ProductUniqueID>161</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/volumizing-collection/rare-oil-dry-mist/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/161/images/1198/marula-oil-products-lined_at_bottom__03564.1499659416.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Treatment Light</Name>
+      <ProductUniqueID>163</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/replenishing-and-treatment-collection/rare-oil-treatment-light/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/163/images/1199/MarulaOil-Rare-Oil-Treatment-Light-image-50ml__50888.1499659578.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Treatment</Name>
+      <ProductUniqueID>166</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/replenishing-and-treatment-collection/rare-oil-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/166/images/1184/MarulaOil-Rare-Oil-Treatment-image-50ml__20977.1499658639.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Replenishing Shampoo</Name>
+      <ProductUniqueID>167</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/replenishing-and-treatment-collection/rare-oil-replenishing-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/167/images/1186/MarulaOil-Rare-Oil-Replenishing-Shampoo-image-222ml__72729.1499658816.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil 3-in-1 Styling Cream</Name>
+      <ProductUniqueID>168</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/styling-collection/rare-oil-3-in-1-styling-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/168/images/1189/MarulaOil-Rare-Oil-3-in-1-Styling-Cream-image-150ml__65298.1499658963.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Classic Dressing Brush</Name>
+      <ProductUniqueID>170</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/brush-collection/classic-dressing-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/170/images/1201/MarulaOil-classic-dressing-brush-image__98820.1499659806.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Round</Name>
+      <ProductUniqueID>172</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-brushes/neuro-round/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/172/images/642/neuro_titanium_thermal_round_brush_lg__43000.1498600590.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Volumizing Conditioner</Name>
+      <ProductUniqueID>177</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/volumizing-collection/rare-oil-volumizing-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/177/images/1190/MarulaOil-Rare-Oil-Volumizing-Conditioner-image-222ml__15458.1499659055.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Rare Oil Volumizing Shampoo</Name>
+      <ProductUniqueID>178</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/marulaoil/volumizing-collection/rare-oil-volumizing-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/178/images/1194/MarulaOil-Rare-Oil-Volumizing-Shampoo-image-222ml__74074.1499659269.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>43</CategoryID>
+    </Product>
+    <Product>
+      <Name>Good Vibrations Express Ion Smooth+ Flat Iron + Brush Set</Name>
+      <ProductUniqueID>179</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/good-vibrations-express-ion-smooth-flat-iron-brush-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/179/images/885/good_vibrations_express_smooth_iron_box__15710.1498689750.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Good Vibrations Travel Set</Name>
+      <ProductUniqueID>180</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/good-vibrations-travel-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/180/images/1016/neon-good-vibrations-take-home-kit__59703.1498810557.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Mini Smooth Flat Iron</Name>
+      <ProductUniqueID>182</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/express-mini-smooth-flat-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/182/images/859/pro_tools_express_ion__mini_smooth__44712.1498686607.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Ultimate Color Repair Shampoo</Name>
+      <ProductUniqueID>183</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/ultimate-color-repair/ultimate-color-repair-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/183/images/1048/UCR_Shampoo_8.5-fl__17444.1498856592.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Ultimate Color Repair Conditioner</Name>
+      <ProductUniqueID>184</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/ultimate-color-repair/ultimate-color-repair-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/184/images/1046/UCR_Conditioner-6.8-fl__22329.1498855474.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Ultimate Color Repair Triple Rescue</Name>
+      <ProductUniqueID>185</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/ultimate-color-repair/ultimate-color-repair-triple-rescue/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/185/images/1051/UCR_Triple_Rescue-5.1-fl__39755.1498857592.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Shampoo</Name>
+      <ProductUniqueID>186</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/color-protect/color-protect-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/186/images/1927/paul-mitchell-color-protect-shampoo-10.14-oz__89461.1521227249.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Conditioner</Name>
+      <ProductUniqueID>187</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/color-protect/color-protect-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/187/images/1920/paul-mitchell-color-protect-conditioner-10.14-oz__01223.1521226373.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Treatment</Name>
+      <ProductUniqueID>188</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/color-protect/color-protect-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/188/images/1928/paul-mitchell-color-protect-treatment-5.1-oz__92197.1521227362.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Locking Spray</Name>
+      <ProductUniqueID>189</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/color-protect/color-protect-locking-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/189/images/1926/paul-mitchell-color-protect-locking-spray-8.5-oz__22454.1521227154.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Forever Blonde Shampoo</Name>
+      <ProductUniqueID>190</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/blonde/forever-blonde-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/190/images/1909/paul-mitchell-forever-blonde-shampoo-8.5-oz__09859.1521225762.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Forever Blonde Conditioner</Name>
+      <ProductUniqueID>191</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/blonde/forever-blonde-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/191/images/1901/paul-mitchell-forever-blonde-conditioner-6.8-oz__78594.1521225274.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Forever Blonde Dramatic Repair</Name>
+      <ProductUniqueID>192</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/blonde/forever-blonde-dramatic-repair/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/192/images/1897/paul-mitchell-forever-blonde-dramatic-repair-5.1-oz__87127.1521223897.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Platinum Blonde Shampoo</Name>
+      <ProductUniqueID>193</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/blonde/platinum-blonde-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/193/images/1880/paul-mitchell-platinum-blonde-shampoo-10.14-oz__63524.1520880333.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Strong Shampoo</Name>
+      <ProductUniqueID>194</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/super-strong/super-strong-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/194/images/1883/paul-mitchell-super-strong-shampoo-10.14-oz__44595.1521002364.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Strong Conditioner</Name>
+      <ProductUniqueID>195</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/super-strong/super-strong-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/195/images/1884/paul-mitchell-super-strong-conditioner-10.14-oz__58789.1521002474.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Strong Treatment</Name>
+      <ProductUniqueID>196</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/super-strong/super-strong-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/196/images/1042/PM_ST_SupStrTreat_6.8oz__59145.1498851165.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Strong Liquid Treatment</Name>
+      <ProductUniqueID>197</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/super-strong/super-strong-liquid-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/197/images/1885/paul-mitchell-super-strong-liquid-treatment-8.5-oz__78078.1521002622.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Skinny Shampoo</Name>
+      <ProductUniqueID>198</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/super-skinny-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/198/images/1906/paul-mitchell-smoothing-super-skinny-daily-shampoo-10.14-oz__29793.1521225648.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Skinny Serum</Name>
+      <ProductUniqueID>199</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/super-skinny-serum/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/199/images/1908/paul-mitchell-smoothing-super-skinny-serum-5.1-oz__34512.1521225761.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Straight Works</Name>
+      <ProductUniqueID>200</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/straight-works/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/200/images/1904/paul-mitchell-smoothing-straight-works-6.8-oz__80554.1521225480.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Gloss Drops</Name>
+      <ProductUniqueID>201</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/gloss-drops/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/201/images/1903/paul-mitchell-smoothing-gloss-drops-3.4-oz__77231.1521225405.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Skinny Relaxing Balm</Name>
+      <ProductUniqueID>202</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/super-skinny-relaxing-balm/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/202/images/1907/paul-mitchell-smoothing-super-skinny-relaxing-balm-6.8-oz__81976.1521225711.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Shampoo</Name>
+      <ProductUniqueID>203</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/203/images/1950/paul-mitchell-extra-body-shampoo-10.14-oz__13487.1521229805.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Conditioner</Name>
+      <ProductUniqueID>204</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/204/images/1952/paul-mitchell-extra-body-conditioner-10.14-oz__93904.1521229876.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Boost </Name>
+      <ProductUniqueID>205</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-boost/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/205/images/1949/paul-mitchell-extra-body-boost-8.5-oz__33024.1521229779.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Sculpting Gel</Name>
+      <ProductUniqueID>206</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-sculpting-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/206/images/1951/paul-mitchell-extra-body-sculpting-gel-6.8-oz__78665.1521229869.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Sculpting Foam</Name>
+      <ProductUniqueID>207</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-sculpting-foam/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/207/images/1953/paul-mitchell-extra-body-sculpting-foam-6.7-oz__09083.1521229931.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Thicken Up Styling Liquid</Name>
+      <ProductUniqueID>208</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/thicken-up/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/208/images/1948/paul-mitchell-extra-body-thicken-up-6.8-oz__44263.1521229758.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Finishing Spray</Name>
+      <ProductUniqueID>209</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-finishing-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/209/images/1960/paul-mitchell-extra-body-finishing-spray-12-oz__40015.1521234431.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Extra-Body Firm Finishing Spray</Name>
+      <ProductUniqueID>210</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/extra-body/extra-body-firm-finishing-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/210/images/824/PM_EB_FirmFinishingSpray-XFFS-011__79740.1498685227.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Instant Moisture Shampoo</Name>
+      <ProductUniqueID>211</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/instant-moisture/instant-moisture-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/211/images/1922/paul-mitchell-moisture-instant-moisture-daily-shampoo-10.14-oz__75500.1521226447.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Bar</Name>
+      <ProductUniqueID>212</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/instant-moisture/awapuhi-bar/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/212/images/1918/paul-mitchell-moisture-awapuhi-bar-5.3-oz__65011.1521226268.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super-Charged Treatment</Name>
+      <ProductUniqueID>213</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/instant-moisture/super-charged-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/213/images/1923/paul-mitchell-moisture-super-charged-treatment-5.1-oz__27887.1521226521.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Moisture Mist</Name>
+      <ProductUniqueID>214</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/instant-moisture/awapuhi-moisture-mist/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/214/images/1919/paul-mitchell-moisture-awapuhi-moisture-mist-8.5-oz__50451.1521226333.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Shampoo One</Name>
+      <ProductUniqueID>216</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/original/shampoo-one/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/216/images/1913/paul-mitchell-original-shampoo-one-10.14-oz__92268.1521226043.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Shampoo</Name>
+      <ProductUniqueID>217</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/original/awapuhi-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/217/images/1911/paul-mitchell-original-awapuhi-shampoo-10.14-oz__71580.1521225945.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>The Conditioner</Name>
+      <ProductUniqueID>218</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/original/the-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/218/images/1914/paul-mitchell-original-the-conditioner-10.14-oz__79730.1521226123.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>The Detangler</Name>
+      <ProductUniqueID>219</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/original/the-detangler/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/219/images/1916/paul-mitchell-original-the-detangler-10.14-oz__81577.1521226183.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Shampoo Two</Name>
+      <ProductUniqueID>221</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/clarifying/shampoo-two/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/221/images/1912/paul-mitchell-clarifying-shampoo-two-10.14-oz__46276.1521226022.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Shampoo Three</Name>
+      <ProductUniqueID>222</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/clarifying/shampoo-three/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/222/images/1917/paul-mitchell-clarifying-shampoo-three-10.14-oz__91455.1521226203.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Baby Don't Cry Shampoo</Name>
+      <ProductUniqueID>223</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/kids/baby-dont-cry-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/223/images/1924/paul-mitchell-kids-baby-dont-cry-shampoo-10.14-oz__61563.1521226592.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Taming Spray</Name>
+      <ProductUniqueID>224</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/kids/taming-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/224/images/1925/paul-mitchell-kids-taming-spray-8.5-oz__35941.1521226656.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Spring Loaded Frizz-Fighting Shampoo</Name>
+      <ProductUniqueID>225</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/curls/spring-loaded-frizz-fighting-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/225/images/1939/paul-mitchell-curls-spring-loaded-frizz-fighting-shampoo-8.5-oz__08358.1521229222.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Spring Loaded Frizz-Fighting Conditioner</Name>
+      <ProductUniqueID>226</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/curls/spring-loaded-frizz-fighting-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/226/images/1941/paul-mitchell-curls-spring-loaded-frizz-fighting-conditioner-6.8-oz__04451.1521229343.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Full Circle Leave-In Treatment</Name>
+      <ProductUniqueID>227</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/curls/full-circle-leave-in-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/227/images/1930/paul-mitchell-curls-full-circle-leave-in-treatment-6.8-oz__47618.1521227736.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Ultimate Wave</Name>
+      <ProductUniqueID>228</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/curls/ultimate-wave/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/228/images/1947/paul-mitchell-curls-ultimate-wave-6.8-oz__94929.1521229617.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Twirl Around</Name>
+      <ProductUniqueID>229</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/curls/twirl-around/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/229/images/1944/paul-mitchell-curls-twirl-around-5.1-oz__32996.1521229506.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Dry Wash</Name>
+      <ProductUniqueID>230</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/dry-wash/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/230/images/910/PM_EXS_DWH-252-DryWash__37572.1498692651.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Stay Strong</Name>
+      <ProductUniqueID>231</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/firm-style/stay-strong/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/231/images/942/PM_EXS_SSTG-366-StayStrong__46155.1498698561.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Fast Form</Name>
+      <ProductUniqueID>232</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/fast-form/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/232/images/1892/paul-mitchell-soft-style-fast-form-6.8-oz__93343.1521222757.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Hot Off The Press</Name>
+      <ProductUniqueID>233</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/hot-off-the-press/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/233/images/1934/paul-mitchell-flexible-style-hot-off-the-press-6-oz__27499.1521228952.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Quick Slip</Name>
+      <ProductUniqueID>234</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/quick-slip/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/234/images/1833/quick-slip-6.8-oz__47800.1515543420.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Round Trip</Name>
+      <ProductUniqueID>235</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/round-trip/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/235/images/1935/paul-mitchell-flexible-style-round-trip-6.8-oz__91538.1521229115.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Hold Me Tight</Name>
+      <ProductUniqueID>236</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/hold-me-tight/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/236/images/939/PM_EXS_HoldMeTight-HT-11__64774.1498697843.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Worked Up</Name>
+      <ProductUniqueID>237</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/worked-up/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/237/images/906/PM_EXS_WU-11-WorkedUp__30221.1498692021.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Soft Sculpting Spray Gel</Name>
+      <ProductUniqueID>238</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/soft-sculpting-spray-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/238/images/1896/paul-mitchell-soft-style-soft-sculpting-spray-gel-8.5-oz__00285.1521223063.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Foaming Pommade</Name>
+      <ProductUniqueID>239</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/foaming-pommade/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/239/images/1894/paul-mitchell-soft-style-foaming-pommade-5.1-oz__41146.1521222844.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Soft Spray Finishing Spray</Name>
+      <ProductUniqueID>240</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/soft-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/240/images/1898/paul-mitchell-soft-style-soft-spray-8.5-oz__63258.1521225165.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>The Cream</Name>
+      <ProductUniqueID>241</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/the-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/241/images/1902/paul-mitchell-soft-style-the-cream-6.8-oz__09696.1521225339.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Clean Light</Name>
+      <ProductUniqueID>244</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/soft-style/super-clean-light/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/244/images/1961/paul-mitchell-soft-style-super-clean-light-9.5-oz__23182.1521479104.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>ESP Elastic Shaping Paste</Name>
+      <ProductUniqueID>245</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/esp-elastic-shaping-paste/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/245/images/1929/paul-mitchell-flexible-esp-1.8-oz__87261.1521227418.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Sculpt</Name>
+      <ProductUniqueID>246</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/super-sculpt/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/246/images/1942/paul-mitchell-flexible-style-super-sculpt-8.5-oz__42422.1521229352.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Hair Sculpting Lotion</Name>
+      <ProductUniqueID>247</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/hair-sculpting-lotion/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/247/images/1933/paul-mitchell-flexible-style-hair-sculpting-lotion-8.5-oz__85225.1521228853.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Re-Works Texture Cream</Name>
+      <ProductUniqueID>248</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/re-works-texture-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/248/images/934/PM_FXS_Reworks__98771.1498697381.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Spray Wax</Name>
+      <ProductUniqueID>249</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/spray-wax/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/249/images/1940/paul-mitchell-flexible-style-spray-wax-7.5-oz__19055.1521229250.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sculpting Foam</Name>
+      <ProductUniqueID>250</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/sculpting-foam/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/250/images/1938/paul-mitchell-flexible-style-sculpting-foam-6.7-oz__04394.1521229172.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Fast Drying Sculpting Spray</Name>
+      <ProductUniqueID>251</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/fast-drying-sculpting-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/251/images/1931/paul-mitchell-flexible-style-fast-drying-sculpting-spray-8.5-oz__70461.1521228644.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Clean Spray</Name>
+      <ProductUniqueID>252</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/super-clean-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/252/images/1957/paul-mitchell-flexible-style-super-clean-spray-9.5-oz__29060.1521233588.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Wax Works Gel</Name>
+      <ProductUniqueID>253</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/flexible-style/wax-works-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/253/images/1943/paul-mitchell-flexible-style-wax-works-6.8-oz__13586.1521229426.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Clean Sculpting Gel</Name>
+      <ProductUniqueID>254</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/firm-style/super-clean-sculpting-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/254/images/968/PM_FMS_SuperCleanSculptingGel-SC-006__83259.1498748913.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Dry Wax</Name>
+      <ProductUniqueID>255</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/firm-style/dry-wax/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/255/images/1945/paul-mitchell-firm-style-dry-wax__97584.1521229542.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Freeze and Shine Super Spray</Name>
+      <ProductUniqueID>256</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/freeze-and-shine-super-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/256/images/1946/paul-mitchell-firm-style-freeze-and-shine-super-spray-8.5-oz__91898.1521229592.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Clean Extra</Name>
+      <ProductUniqueID>257</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/firm-style/super-clean-extra/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/257/images/1958/paul-mitchell-firm-style-super-clean-extra-9.5-oz__97676.1521233935.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>XTG Extreme Thickening Glue</Name>
+      <ProductUniqueID>258</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/firm-style/xtg-extreme-thickening-glue/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/258/images/1756/xtg-3.4-oz__53795.1511997567.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>MirrorSmooth Shampoo</Name>
+      <ProductUniqueID>259</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/smooth/mirrorsmooth-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/259/images/610/awapuhi_wild_ginger_8.5oz_mirror_smooth_shampoo__58022.1498596943.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>MirrorSmooth Conditioner</Name>
+      <ProductUniqueID>260</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/smooth/mirrorsmooth-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/260/images/609/awapuhi_wild_ginger_6.8oz_mirror_smooth_conditioner__22187.1498596922.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>MirrorSmooth High Gloss Primer</Name>
+      <ProductUniqueID>261</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/smooth/mirrorsmooth-high-gloss-primer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/261/images/611/awapuhi_wild_ginger_3.4oz_high_gloss_primer__57138.1498596974.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Moisturizing Lather Shampoo</Name>
+      <ProductUniqueID>262</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/repair/moisturizing-lather-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/262/images/1123/awapuhi_wild_ginger_8.5oz_product__10111.1499287608.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Keratin Cream Rinse</Name>
+      <ProductUniqueID>263</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/repair/keratin-cream-rinse/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/263/images/607/awapuhi_wild_ginger_8.5oz_keratin_cream_rinse__92975.1498596786.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Keratin Intensive Treatment</Name>
+      <ProductUniqueID>264</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/repair/keratin-intensive-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/264/images/608/awapuhi_wild_ginger_5.1oz_keratin_intensive_treatment__08852.1498596852.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>KeraTriplex Treatment</Name>
+      <ProductUniqueID>265</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/repair/keratriplex-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/265/images/901/awapuhi_wild_ginger_keratriplex__15672.1498691444.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>HydraTriplex Treatment</Name>
+      <ProductUniqueID>266</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/repair/hydratriplex-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/266/images/896/awapuhi_wild_ginger_hydratriplex__82422.1498690959.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>HydroCream Whip</Name>
+      <ProductUniqueID>267</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/hydrocream-whip/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/267/images/612/awapuhi_wild_ginger_6_7oz_hydrocream_whip__71759.1498597114.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>HydroMist Blow-Out Spray</Name>
+      <ProductUniqueID>268</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/hydromist-blow-out-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/268/images/1212/AWG_HydroMistBlowoutSpray__67447.1500417207.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Styling Treatment Oil</Name>
+      <ProductUniqueID>269</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/styling-treatment-oil/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/269/images/614/awapuhi_wild_ginger_5_1oz_treatment_oil__82431.1498597321.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Texturizing Sea Spray</Name>
+      <ProductUniqueID>270</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/texturizing-sea-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/270/images/1242/AWG_Style_Texturizing_Sea_Spray_5_1oz_White__28443.1502126670.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Shine Spray</Name>
+      <ProductUniqueID>271</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/shine-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/271/images/616/awapuhi_wild_ginger_3_3oz_shine_spray__37485.1498597536.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Finishing Spray</Name>
+      <ProductUniqueID>272</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/awapuhi-wild-ginger/style/finishing-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/272/images/617/awapuhi_wild_ginger_9_1oz_finishing_spray__09041.1498597598.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Special Shampoo</Name>
+      <ProductUniqueID>273</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-special-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/273/images/745/TeaTree_10.14oz_Special_Shampoo__03467.1498672046.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Special Conditioner</Name>
+      <ProductUniqueID>274</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-special-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/274/images/743/TeaTree_10.14oz_Special_Conditioner__91981.1498672006.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Hair and Scalp Treatment</Name>
+      <ProductUniqueID>275</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-hair-and-scalp-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/275/images/742/TeaTree_6.8oz_Hair__Scalp_Treatment__53936.1498671963.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Hair and Body Moisturizer</Name>
+      <ProductUniqueID>276</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-hair-and-body-moisturizer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/276/images/740/TeaTree_10.14oz_HairAndBody_Moisturizer__54975.1498671913.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Hand Soap</Name>
+      <ProductUniqueID>277</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-hand-soap/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/277/images/739/TeaTree_10.14oz_Hand_Soap__21738.1498671866.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Styling Wax</Name>
+      <ProductUniqueID>278</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-styling-wax/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/278/images/716/TeaTree_6.8oz_StylingWax__21301.1498615440.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Body Bar</Name>
+      <ProductUniqueID>279</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-body-bar/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/279/images/728/TeaTree_5.3oz_Body_Bar__92106.1498667386.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Shave Gel</Name>
+      <ProductUniqueID>280</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-shave-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/280/images/1214/TT_ShaveGel__70509.1500417976.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Aromatic Oil</Name>
+      <ProductUniqueID>281</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-aromatic-oil/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/281/images/815/TeaTree_0.3oz_Essential_Oil__29916.1498684953.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Styling Gel</Name>
+      <ProductUniqueID>282</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-styling-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/282/images/727/TeaTree_6.8oz_StylingGel__28690.1498666723.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Firm Hold Gel</Name>
+      <ProductUniqueID>283</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-firm-hold-gel/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/283/images/738/TeaTree_6.8oz_FirmHoldGel__97407.1498671830.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Grooming Pomade</Name>
+      <ProductUniqueID>284</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-grooming-pomade/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/284/images/729/TeaTree_3oz_Grooming_Pomade__48200.1498668568.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Shaping Cream</Name>
+      <ProductUniqueID>285</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-special/tea-tree-shaping-cream/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/285/images/717/TeaTree_3oz_Shaping_Cream__20122.1498615935.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lemon Sage Thickening Shampoo</Name>
+      <ProductUniqueID>286</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lemon-sage/lemon-sage-thickening-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/286/images/735/TeaTree_10.14oz_Lemon_Sage_Shampoo__69724.1498671621.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lemon Sage Thickening Conditioner</Name>
+      <ProductUniqueID>287</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lemon-sage/lemon-sage-thickening-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/287/images/733/TeaTree_10.14oz_Lemon_Sage_Conditioner__87123.1498671471.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lemon Sage Thickening Spray</Name>
+      <ProductUniqueID>288</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lemon-sage/lemon-sage-thickening-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/288/images/737/TeaTree_6.8oz_LemonSage-ThickeningSpray__30294.1498671728.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lavender Mint Moisturizing Shampoo</Name>
+      <ProductUniqueID>289</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lavender-mint/lavender-mint-moisturizing-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/289/images/750/TeaTree_10.14oz_Lavender_Mint_Shampoo__72559.1498672591.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lavender Mint Moisturizing Conditioner</Name>
+      <ProductUniqueID>290</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lavender-mint/lavender-mint-moisturizing-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/290/images/752/TeaTree_10.14oz_Lavender_Mint_Conditioner__30322.1498672781.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Heavy Hitter Deep Cleansing Shampoo</Name>
+      <ProductUniqueID>291</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/heavy-hitter/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/291/images/619/mitch_8_5oz_heavy_hitter__58998.1498597822.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Double Hitter 2-in-1 Shampoo &amp; Conditioner</Name>
+      <ProductUniqueID>292</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/double-hitter/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/292/images/618/mitch_8_5oz_double_hitter__20329.1498597800.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Barber’s Classic Hair Pomade</Name>
+      <ProductUniqueID>293</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/barbers-classic/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/293/images/622/mitch_barbers_classic__36248.1498598279.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Construction Paste Styling Hair Paste</Name>
+      <ProductUniqueID>294</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/construction-paste/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/294/images/623/mitch_construction_paste__29608.1498598350.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Clean Cut Styling Hair Cream</Name>
+      <ProductUniqueID>295</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/clean-cut/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/295/images/621/mitch_clean_cut__85149.1498598249.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Steady Grip Hair Gel</Name>
+      <ProductUniqueID>296</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/steady-grip/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/296/images/624/mitch_steady_grip__29708.1498598465.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Reformer Texturizing Hair Putty</Name>
+      <ProductUniqueID>297</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/reformer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/297/images/620/mitch_reformer__33486.1498598078.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Hardwired Spiking Hair Glue</Name>
+      <ProductUniqueID>298</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/hardwired/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/298/images/626/mitch_hardwired__17753.1498598622.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Matterial Styling Hair Clay</Name>
+      <ProductUniqueID>299</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/mitch/matterial/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/299/images/625/mitch_matterial__53313.1498598563.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Lather Shampoo</Name>
+      <ProductUniqueID>300</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-care-products/neuro-lather-heatctrl-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/300/images/922/NEURO_Lather__46000.1498695534.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Rinse Conditioner</Name>
+      <ProductUniqueID>301</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-care-products/neuro-rinse-heatctrl-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/301/images/924/NEURO_Rinse__38327.1498695744.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Repair Treatment</Name>
+      <ProductUniqueID>302</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-care-products/neuro-repair-heatctrl-treatment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/302/images/927/NEURO_Repair__45766.1498696337.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Prime</Name>
+      <ProductUniqueID>303</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/style-products/neuro-prime-heatctrl-blowout-primer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/303/images/1246/NEURO_Prime_4.7oz_White_RGB__05143.1502127050.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Lift</Name>
+      <ProductUniqueID>304</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/style-products/neuro-lift-heatctrl-volume-foam/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/304/images/1245/NEURO_Lift_6oz_White_RGB__20353.1502126959.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Finish</Name>
+      <ProductUniqueID>305</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/style-products/neuro-finish-heatctrl-style-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/305/images/1244/NEURO_Finish_6oz_White_RGB__55524.1502126916.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Protect</Name>
+      <ProductUniqueID>306</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/style-products/neuro-protect-heatctrl-iron-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/306/images/1247/NEURO_Protect_6oz_white_RGB__23596.1502127130.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl Marcel .75" Curling Iron</Name>
+      <ProductUniqueID>307</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-marcel-75-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/307/images/661/pro_tools_express_gold_curl_marcel_75__12814.1498603092.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl Marcel 1" Curling Iron</Name>
+      <ProductUniqueID>308</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-marcel-1-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/308/images/663/pro_tools_express_gold_curl_marcel_1__68825.1498603128.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Gold Curl Marcel 1.25" Curling Iron</Name>
+      <ProductUniqueID>309</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-gold-curl-marcel-1-25-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/309/images/665/pro_tools_express_gold_curl_marcel_125__75895.1498603154.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Curl XS Curling Iron</Name>
+      <ProductUniqueID>310</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-curl-xs-curling-iron/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/310/images/669/pro_tools_express_ion_curl_xs__57433.1498603435.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Slim Water Sprayer</Name>
+      <ProductUniqueID>313</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/styling-essentials/slim-water-sprayer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/313/images/649/pro_tools_slim_water_sprayer__67334.1498602013.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>ProStix</Name>
+      <ProductUniqueID>314</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/styling-essentials/prostix/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/314/images/652/pro_tools_prostix_chopsticks__03772.1498602121.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 1" Bubble Rod Attachment</Name>
+      <ProductUniqueID>315</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-1-bubble-rod-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/315/images/680/pro_tools_express_ion_unclipped_bubble_rod__22665.1498604202.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 1.25" - 0.75" Oval Rod Attachment</Name>
+      <ProductUniqueID>316</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-1-25-0-75-oval-rod-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/316/images/686/pro_tools_express_ion_unclipped_oval_rod__15332.1498604841.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 1.5" Styling Rod Attachment</Name>
+      <ProductUniqueID>317</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-1-5-styling-rod-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/317/images/693/pro_tools_express_ion_unclipped_15_styling_rod__11836.1498606139.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 1.25" Styling Rod Attachment</Name>
+      <ProductUniqueID>318</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-1-25-styling-rod-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/318/images/700/pro_tools_express_ion_unclipped_125_styling_rod__16904.1498606644.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 0.75"-1.25" Reverse Cone Attachment</Name>
+      <ProductUniqueID>319</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-0-75-1-25-reverse-cone-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/319/images/708/pro_tools_express_ion_unclipped_reverse_cone__51995.1498607256.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Express Ion Unclipped 1.5"- 0.75" Cone Attachment</Name>
+      <ProductUniqueID>320</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/pro-tools/pro-irons/express-ion-unclipped-1-5-75-cone-attachment/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/320/images/712/pro_tools_express_ion_unclipped_styling_cone__81976.1498607476.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Root Lift Foam</Name>
+      <ProductUniqueID>321</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-scalp-care/scalp-care-anti-thinning-root-lift-foam/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/321/images/731/TeaTree_6.8oz_ScalpCare-RootLiftFoam__52853.1498670089.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lavender Mint Conditioning Leave-In Spray</Name>
+      <ProductUniqueID>322</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lavender-mint/lavender-mint-conditioning-leave-in-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/322/images/753/TeaTree_6.8oz_LavenderMint-LeaveInSpray__66365.1498673048.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Tonic</Name>
+      <ProductUniqueID>323</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-scalp-care/scalp-care-anti-thinning-tonic/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/323/images/1166/TeaTree_3.4oz_Scalp_Care_Tonic__40505.1499550598.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Lavender Mint Deep Conditioning Mineral Hair Mask Set of 6</Name>
+      <ProductUniqueID>324</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-lavender-mint/lavender-mint-deep-conditioning-mineral-hair-mask/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/324/images/755/TeaTree_Lavender_Mint_Mineral_Mask_Foil__74184.1498673135.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Ultimate Color Repair Mask</Name>
+      <ProductUniqueID>325</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/ultimate-color-repair/ultimate-color-repair-mask/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/325/images/1043/UCR_Mask_5.1oz__56121.1498853937.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Instant Moisture Conditioner</Name>
+      <ProductUniqueID>326</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/instant-moisture/instant-moisture-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/326/images/1921/paul-mitchell-moisture-instant-moisture-conditioner-6.8-oz__33056.1521226394.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Super Skinny Conditioner</Name>
+      <ProductUniqueID>327</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/smoothing/super-skinny-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/327/images/1905/paul-mitchell-smoothing-super-skinny-conditioner-10.14-oz__70297.1521225569.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Shampoo</Name>
+      <ProductUniqueID>328</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-scalp-care/scalp-care-anti-thinning-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/328/images/748/TeaTree_10.14oz_ScalpCare_Shampoo__09333.1498672169.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Conditioner</Name>
+      <ProductUniqueID>329</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/tea-tree/tea-tree-scalp-care/scalp-care-anti-thinning-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/329/images/747/TeaTree_10.14oz_ScalpCare_Conditioner__25537.1498672116.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Liquid Take Home Kit</Name>
+      <ProductUniqueID>352</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/neuro-liquid-take-home-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/352/images/1232/neuro-liquid-take-home-kit-jul17__62113.1500672173.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neon #STICKITTOBULLYING Kit</Name>
+      <ProductUniqueID>356</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/neon-stickittobullying-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/356/images/1248/Neon_Antibullying_Kit_Box__34150.1502831059.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neon Emoji Express Ion Dry+ Dryer</Name>
+      <ProductUniqueID>358</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/neon-emoji-express-ion-dry-plus-dryer/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/358/images/1251/Neon_Antibullying_Express_Ion_Dry___04319.1502834093.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neon Temporary Color Hairsprays</Name>
+      <ProductUniqueID>363</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/neon-express-color-hairsprays/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/363/images/1260/neon_color_hairspray_display__58284.1502910049.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Blonde Dry Shampoo</Name>
+      <ProductUniqueID>364</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-blonde-dry-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/364/images/1261/Invisiblewear_Blonde_Dry_Shampoo_4.7oz__21215.1502924379.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Brunette Dry Shampoo</Name>
+      <ProductUniqueID>365</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-brunette-dry-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/365/images/1262/Invisiblewear_Brunette_Dry_Shampoo_4.7oz__68765.1502996979.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Conditioner</Name>
+      <ProductUniqueID>367</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/367/images/1288/Invisiblewear_Conditioner_10.14oz__80571.1503017262.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Boomerang Restyling Mist</Name>
+      <ProductUniqueID>368</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/invisiblewear-boomerang-restyling-mist/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/368/images/1269/Invisiblewear_Boomerang_Mist_8.5oz__58519.1503005521.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Memory Shaper</Name>
+      <ProductUniqueID>370</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-memory-shaper/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/370/images/1271/Invisiblewear_Memory_Shaper_8.5oz__91030.1503006545.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Orbit Hairspray</Name>
+      <ProductUniqueID>371</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-orbit-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/371/images/1275/Invisiblewear_Orbit_Hairspray_9.5oz__50848.1503007723.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Pump Me Up</Name>
+      <ProductUniqueID>372</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-pump-me-up/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/372/images/1277/Invisiblewear_Pump_Me_Up_0.35oz__98290.1503009873.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Shampoo</Name>
+      <ProductUniqueID>373</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/373/images/1280/Invisiblewear_Shampoo_10.14oz__64654.1503011902.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Undone Texture Hairspray</Name>
+      <ProductUniqueID>375</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-undone-texture-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/375/images/1285/Invisiblewear_Undone_Texture_Spray_6.3oz__50728.1503013349.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>INVISIBLEWEAR Volume Whip</Name>
+      <ProductUniqueID>376</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/invisiblewear/invisiblewear-volume-whip/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/376/images/1287/Invisiblewear_Volume_Whip_6.8oz__92048.1503015244.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Conditioner Sample</Name>
+      <ProductUniqueID>391</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/color-protect-daily-conditioner-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/391/images/1367/color-protect-daily-conditioner-sample-sep17__33992.1505343068.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Color Protect Shampoo Sample</Name>
+      <ProductUniqueID>392</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/color-protect-daily-shampoo-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/392/images/1366/color-protect-daily-shampoo-sample-sep17__71267.1505343056.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Shampoo Sample</Name>
+      <ProductUniqueID>397</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/awapuhi-shampoo-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/397/images/1358/awapuhi-shampoo-sample-sep17__55536.1505342948.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Tea Tree Hair And Body Moisturizer Sample</Name>
+      <ProductUniqueID>398</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/tea-tree-hair-and-body-moisturizer-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/398/images/1357/tea-tree-hair-body-moisturizer-sample-sep17__54504.1505342934.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Forever Blonde Shampoo Sample</Name>
+      <ProductUniqueID>401</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/forever-blonde-shampoo-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/401/images/1354/forever-blonde-shampoo-sample-sep17__97227.1505342160.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Forever Blonde Conditioner Sample</Name>
+      <ProductUniqueID>402</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/forever-blonde-conditioner-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/402/images/1353/forever-blonde-conditioner-sample-sep17__65236.1505342059.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name> Mini Tea Tree Body Bar</Name>
+      <ProductUniqueID>405</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/mini-tea-tree-body-bar/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/405/images/1372/mini-tea-tree-body-bar-sep17__03933.1506834443.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Love Is Beautiful Gift Set</Name>
+      <ProductUniqueID>407</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/love-is-beautiful-gift-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/407/images/1374/paul-mitchell-love-is-beautiful-gift-set-sep17__67034.1506834517.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Own Your Look Gift Set</Name>
+      <ProductUniqueID>422</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/own-your-look-gift-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/422/images/1391/mitch-own-your-look-gift-set-sep17__38988.1506834998.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Style Suits You Gift Set</Name>
+      <ProductUniqueID>423</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/style-suits-you-gift-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/423/images/1392/mitch-style-suits-you-gift-set-sep17__96115.1506835024.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name> Modern Marble Express Ion Style+ with Sculpting Brush Set</Name>
+      <ProductUniqueID>425</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/modern-marble-express-ion-style-with-sculpting-brush-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/425/images/1398/modern-marble-express-ion-style-plus-box-sep17__65497.1506835167.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Modern Marble Sculpting Brush</Name>
+      <ProductUniqueID>427</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/modern-marble-sculpting-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/427/images/1481/modern-marble-sculpting-brush-black-back-sep17__97470.1506835180.1280.1280__42963.1507223236.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Modern Marble 427 Paddle Brush</Name>
+      <ProductUniqueID>429</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/modern-marble-427-paddle-brush/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/429/images/1408/modern-marble-paddle-brush-white-back-sep17__55808.1506835348.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>44</CategoryID>
+    </Product>
+    <Product>
+      <Name>Aurora Neuro Smooth</Name>
+      <ProductUniqueID>431</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/aurora-neuro-smooth/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/431/images/1412/aurora-neuro-smooth-box-sep17__81321.1506835418.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Essence of Style Gift Set</Name>
+      <ProductUniqueID>432</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/holiday/essence-of-style-gift-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/432/images/1413/awapuhi-wild-ginger-essence-of-style-set-sep17__76757.1506835454.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Dry Conditioner</Name>
+      <ProductUniqueID>443</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-dry-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/443/images/1733/NEON-CON__47868.1511988240.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Tease Hairspray</Name>
+      <ProductUniqueID>444</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-tease-hairspray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/444/images/1735/NEON-HAIR__75790.1511988524.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Style Savers Kit</Name>
+      <ProductUniqueID>447</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/sugar-style-savers-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/447/images/1600/neon__69249.1511824770.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Angle Rod Curling Iron with Neuro Protect</Name>
+      <ProductUniqueID>449</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-angle-rod-curling-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/449/images/1776/2__43094.1513111274.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Angle Cone Curling Iron with Neuro Protect</Name>
+      <ProductUniqueID>450</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-angle-cone-curling-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/450/images/1777/3__88765.1513111506.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Sugar Dry Cleanse Shampoo</Name>
+      <ProductUniqueID>451</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neon/sugar-dry-cleanse-shampoo/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/451/images/1734/NEON-SHAMPOO__07771.1511988463.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>45</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Style Flat Iron with Neuro Protect</Name>
+      <ProductUniqueID>452</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-style-flat-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/452/images/1597/neuro_style__03864.1511811907.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Wild Ginger Repair Duo Set</Name>
+      <ProductUniqueID>468</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/awapuhi-wild-ginger-repair-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/468/images/1675/Awapuhi_Wild_Ginger_Repair_Duo_Set__04330.1511921829.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Awapuhi Wild Ginger Smooth Duo Set</Name>
+      <ProductUniqueID>469</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/awapuhi-wild-ginger-smooth-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/469/images/1680/Awapuhi_Wild_Ginger_Smooth_Duo_Set__55834.1511922057.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Halo Dryer with Neuro Prime</Name>
+      <ProductUniqueID>474</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-dryers/neuro-halo-dryer-with-neuro-prime/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/474/images/1719/halo1__66573.1511981319.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Halo 1" Styling Iron with Neuro Protect</Name>
+      <ProductUniqueID>475</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-halo-1-inch-styling-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/475/images/1723/halo1_inch-2__75556.1511982255.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Hair Rehab Take Home Kit</Name>
+      <ProductUniqueID>476</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/hair-rehab-take-home-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/476/images/1771/rehab__76662.1512004812.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>41</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Grip Dryer with Neuro Prime</Name>
+      <ProductUniqueID>480</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-dryers/neuro-grip-dryer-with-neuro-prime/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/480/images/1785/neuro_grip__49341.1514576913.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Dry Dryer with Neuro Prime</Name>
+      <ProductUniqueID>481</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-dryers/neuro-dry-dryer-with-neuro-prime/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/481/images/1787/neuro_dry__35254.1515100845.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Light Dryer with Neuro Prime</Name>
+      <ProductUniqueID>482</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-dryers/neuro-light-dryer-with-neuro-prime//</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/482/images/1789/neuro_light__68952.1515101055.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Motion Dryer with Neuro Prime</Name>
+      <ProductUniqueID>483</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/hair-dryers/neuro-motion-dryer-with-neuro-prime/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/483/images/1791/neuro_motion__79238.1515101214.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Smooth Flat Iron with Neuro Protect</Name>
+      <ProductUniqueID>484</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-smooth-flat-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/484/images/1794/neuro_smooth__75482.1515101564.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Unclipped Styling Rod Curling Iron with Neuro Protect</Name>
+      <ProductUniqueID>485</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-unclipped-styling-rod-curling-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/485/images/1797/neuro_unclipped_styling_rod__14979.1515101782.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Unclipped Styling Cone Curling Iron with Neuro Protect</Name>
+      <ProductUniqueID>486</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/neuro/styling-smoothing-irons/neuro-unclipped-styling-cone-curling-iron-with-neuro-protect/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/486/images/1800/neuro_unclipped_styling_cone__55849.1515102636.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>#RootedInGreen Tea Tree Special Care Duo Set</Name>
+      <ProductUniqueID>487</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/rootedingreen-tea-tree-special-care-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/487/images/1812/TeaTree_10.14oz_Special_Shampoo__03467.1498672046.1280.1280__38069.1506836944.1280.1280__83662.1515536530.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>#RootedInGreen Lemon Sage Care Duo Set</Name>
+      <ProductUniqueID>489</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/rootedingreen-lemon-sage-care-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/489/images/1818/lemon__56906.1515539623.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>#RootedInGreen Lavender Mint Care Duo Set</Name>
+      <ProductUniqueID>490</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/rootedingreen-lavender-mint-care-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/490/images/1824/lavender_mint__69611.1515541753.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>#RootedInGreen Scalp Care Shampoo and Style Duo Set</Name>
+      <ProductUniqueID>491</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/rootedingreen-scalp-care-shampoo-and-style-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/491/images/1830/scalp_care-anthi-thinning__62923.1515542747.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Reformer Duo Set</Name>
+      <ProductUniqueID>493</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/reformer-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/493/images/1837/reformer__12813.1515548400.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Clean Cut Duo Set</Name>
+      <ProductUniqueID>494</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/clean-cut-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/494/images/1840/reshape__98555.1515550003.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Barber’s Classic Pomade Duo Set</Name>
+      <ProductUniqueID>495</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/barbers-classic-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/495/images/1848/lock_up_you_look__43345.1515550725.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Matterial Duo Set</Name>
+      <ProductUniqueID>496</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/matterial-duo-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/496/images/1852/matterial__82314.1515551244.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+    <Product>
+      <Name>Neuro Liquid Styling Essentials Kit</Name>
+      <ProductUniqueID>497</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/neuro-liquid-styling-essentials-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/497/images/1872/neuro__79913.1516315216.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>39</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Regimen Kit</Name>
+      <ProductUniqueID>498</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/scalp-care-anti-thinning-regimen-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/498/images/1887/tea-tree-scalp-care-anti-thinning-regimen-kit__32308.1521052743.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Scalp Care Anti-Thinning Take Home Kit </Name>
+      <ProductUniqueID>499</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/scalp-care-anti-thinning-take-home-kit/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/499/images/1871/scalp_care2___79838.1516315176.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>42</CategoryID>
+    </Product>
+    <Product>
+      <Name>Platinum Blonde Conditioner</Name>
+      <ProductUniqueID>536</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell//blonde/platinum-blonde-conditioner/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/536/images/1876/paul-mitchell-platinum-blonde-conditioner-6.8-oz__90986.1520643754.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Platinum Blonde Toning Spray</Name>
+      <ProductUniqueID>537</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/paul-mitchell/blonde/platinum-blonde-toning-spray/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/537/images/1886/paul-mitchell-platinum-blonde-toning-spray-5.1-oz__83871.1521049647.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Platinum Blonde Set</Name>
+      <ProductUniqueID>538</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/platinum-blonde-set/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/538/images/1975/paul-mitchell-platinum-blonde-set__59052.1522443276.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>The Conditioner Sample</Name>
+      <ProductUniqueID>541</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/the-conditioner-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/541/images/1971/paul-mitchell-original-the-conditioner-0.25-oz__71663.1522192638.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Thicken Up Sample</Name>
+      <ProductUniqueID>542</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/thicken-up-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/542/images/1970/paul-mitchell-extra-body-thicken-up-0.25-oz__49237.1522192611.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Gloss Drops Sample</Name>
+      <ProductUniqueID>543</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/gloss-drops-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/543/images/1969/paul-mitchell-smoothing-gloss-drops-0.25-oz__65829.1522192588.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Round Trip Sample</Name>
+      <ProductUniqueID>544</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/round-trip-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/544/images/1968/paul-mitchell-flexible-style-round-trip-0.25-oz__36324.1522192567.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>The Detangler Sample</Name>
+      <ProductUniqueID>545</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/the-detangler-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/545/images/1967/paul-mitchell-original-the-detangler-0.25-oz__31285.1522192545.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Shampoo One Sample</Name>
+      <ProductUniqueID>546</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/shampoo-one-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/546/images/1966/paul-mitchell-original-shampoo-one-0.25-oz__96048.1522192514.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>38</CategoryID>
+    </Product>
+    <Product>
+      <Name>Reformer Sample</Name>
+      <ProductUniqueID>552</ProductUniqueID>
+      <ProductUrl>https://www.paulmitchell.com/limited-edition/reformer-sample/</ProductUrl>
+      <ImageUrl>https://cdn7.bigcommerce.com/s-u6pyv0n7lf/products/552/images/1982/mitch-reformer-0.35-oz__95601.1523642181.1280.1280.jpg?c=2</ImageUrl>
+      <CategoryID>40</CategoryID>
+    </Product>
+  </Products>
+</Feed>

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+    font-size: .975em;
+    font-family: 'Rubik' ,sans-serif;
+    background-color: #362d3a;
+}
+
+#container {
+  max-width: 800px;
+  margin: 10% auto;
+}
+
+/* TABBED NAVIGATION & CONTENT */
+.tabs {
+  overflow: hidden;
+}
+
+.tabs button {
+    float: left;
+    background-color: #ccc;
+    border: none;
+    border-bottom: 5px solid #948B89;
+    margin: 0;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    text-transform: lowercase;
+    font-size: .875em;
+    height: 50px;
+}
+
+.tabs button img {
+  max-width: 75px;
+}
+
+.tabs button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tabs button.active {
+    background-color: #eee;
+    border-bottom: 5px solid #B6A39E;
+}
+
+/* Style the tab content */
+.tab-content {
+    display: none;
+    background-color: #eee;
+    padding: 20px;
+    border-top: none;
+}
+
+#olapic-content {
+  display: block;
+}
+
+/* HEADERS AND TEXT */
+h2 {
+  text-transform: uppercase;
+}
+
+ul {
+  max-width: 600px;
+  /*margin-left: .5rem;*/
+  list-style-type: none;
+}
+
+ul li {
+  padding: .5rem;
+}
+
+/* BUTTON STYLING */
+button:focus {
+  outline: 0!important;
+}
+
+.botones {
+  margin: 0 auto;
+}
+
+.botones button:nth-child(1) {
+  width: 100%;
+}
+
+.botones button:nth-child(2) {
+  width: 100%;
+}
+
+.btn {
+  background-color: #726E75;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2em;
+  font-weight: 100;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #B6A39E;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.loading-olapic, .loading-google {
+  display: none;
+  max-height: 1.75rem;
+}
+
+/* FOOTER */
+footer {
+  width: 100%;
+  padding-top: 20px;
+}
+
+@media only screen and (max-width: 820px) {
+  footer {
+    padding-left: 20px;
+  }
+}
+
+h1 {
+  font-weight: 100;
+  text-transform: lowercase;
+  color: #fff;
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+#cred {
+  font-size: .85em;
+  color: #786a7e;
+}
+
+/* SUCCESS/ERROR MESSAGES */
+#response {
+  position: fixed;
+  text-align: center;
+  top: 0;
+  right: 0;
+  width: 100%;
+  color: #362d3a;
+  background-color: #D0D1AC;
+  padding: 20px;
+  display: none;
+}

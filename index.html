@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>JPMS Product Feed Manager</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div id="container">
+      <!-- TAB NAVIGATION -->
+      <div class="tabs">
+        <button class="tablinks active" id="olapic"><img src="img/olapic-logo.png"></button>
+        <button class="tablinks" id="google"><img src="img/google-logo31.png"></button>
+      </div>
+
+      <!-- TAB CONTENT - OLAPIC -->
+      <div class="tab-content" id="olapic-content">
+        <h2>Olapic Content Engine</h2>
+        <ul>
+          <li>Products that are not visible in your store will not be included in the product feed.</li>
+          <li>All products included in the feed <strong>must</strong> have an image. If any visible product does not have an image, the script will break until the product visibility is turned off <span style="text-decoration: underline;">or</span> an image is added to the offending item.</li>
+          <li>This app runs automatically every 24 hours. If you would like to manually re-populate the feed, click the "Generate Feed" button below.</li>
+        </ul>
+
+        <div class="botones">
+          <a href="xml/jpms-product-feed.xml" target="_blank"><button class="btn">View as XML</button></a>
+
+          <button id="olapic-feed" class="btn generate-feed"><span id="ola">Generate Feed</span> <i class="fas fa-cog fa-spin loading-olapic"></i></button>
+        </div>
+      </div>
+
+      <!-- TAB CONTENT - GOOGLE -->
+      <div class="tab-content" id="google-content">
+        <h2>Google Shopping Feed</h2>
+
+        <ul>
+          <li>As with the Olapic feed generator, products marked as "invisible" in BigCommerce will not be added to the Google feed.</li>
+          <li>This app runs automatically every 24 hours. If you would like to manually re-populate the feed, click the "Generate Feed" button below.</li>
+        </ul>
+
+        <div class="botones">
+          <a href="xml/jpms-product-feed-google.xml" target="_blank"><button class="btn">View as XML</button></a>
+
+          <button id="google-feed" class="btn generate-feed"><span id="goog">Generate Feed</span> <i class="fas fa-cog fa-spin loading-google"></i></button>
+        </div>
+      </div>
+
+      <footer>
+        <h1>Product Feed Generator</h1>
+        <div id="cred">built by madison neufeld</div>
+      </footer>
+    </div>
+
+    <div id="response">
+      <span style="float:right; cursor: pointer; font-size: 2em;" id="close"><i class="far fa-times-circle"></i></span><span id="message" style="display:inline-block; margin-top: .5rem;"></span>
+    </div>
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+  <script src="assets/main.js" type="text/javascript"></script>
+  </body>
+</html>
